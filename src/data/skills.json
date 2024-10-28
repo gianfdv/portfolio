@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "NumPy",
+    "imageSrc": "skills/numpy.png"
+  },
+  {
+    "title": "Pandas",
+    "imageSrc": "skills/pandas.png"
+  },
+  {
+    "title": "Scikit-learn",
+    "imageSrc": "skills/scikit_learn.png"
+  },
+  {
+    "title": "Matplotlib",
+    "imageSrc": "skills/matplotlib.png"
+  }
+]

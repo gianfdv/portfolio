@@ -5,6 +5,7 @@ import { About } from './components/About/About';
 import { Resume } from "./components/Resume/Resume";
 import { Projects } from "./components/Projects/Projects";
 import { Contact } from "./components/Contact/Contact";
+import ScrollToTopButton from "./components/ScrollToTopButton/ScrollToTopButton";
 
 function App() {
   
@@ -18,6 +19,7 @@ function App() {
         <Resume/>
         <Projects/>
         <Contact/>
+        <ScrollToTopButton/>
       </div>
     </>
   );
